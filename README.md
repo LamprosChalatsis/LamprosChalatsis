@@ -19,7 +19,7 @@ I am currently expanding my skills in **Java, Spring Boot, and distributed syste
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](linkedin.com/in/lampros-chalatsis-586aa6229)
 
 ---
 
