@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Lampros Chalatsis
+# Hi there! I'm Lampros Chalatsis
 
-🚀 Backend Developer | Security Enthusiast | Computer Science Student
+Backend Developer | Security Enthusiast | Computer Science Student
 
 I am a Computer Science student at Harokopio University of Athens with a strong interest in **backend development, cybersecurity, and secure software systems**. I enjoy building reliable applications, designing REST APIs, and learning how real-world systems handle authentication, scalability, and security.
 
@@ -8,22 +8,22 @@ I am currently expanding my skills in **Java, Spring Boot, and distributed syste
 
 ---
 
-## ✏️ About Me
+## About Me
 
-- 🎓 Studying **Informatics and Telematics** at Harokopio University of Athens  
-- 🔐 Interested in **cybersecurity and authentication systems**  
-- 💻 Passionate about **backend development and system design**  
-- 🌍 Erasmus exchange at **AGH University of Science and Technology (Poland)**  
+- Studying **Informatics and Telematics** at Harokopio University of Athens  
+- Interested in **cybersecurity and authentication systems**  
+- Passionate about **backend development and system design**  
+- Erasmus exchange at **AGH University of Science and Technology (Poland)**  
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/lampros-chalatsis-586aa6229)
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -60,9 +60,9 @@ I am currently expanding my skills in **Java, Spring Boot, and distributed syste
 
 ---
 
-# 🚀 Projects
+# Projects
 
-### 🔐 Two-Factor Authentication System
+### Two-Factor Authentication System
 Secure authentication system implementing **TOTP-based multi-factor authentication**, bcrypt password hashing, and HMAC verification.
 
 Technologies:
@@ -72,7 +72,7 @@ Technologies:
 
 ---
 
-### 🏥 Medical Appointment Management System
+### Medical Appointment Management System
 
 Full-stack application for managing medical appointments with **role-based access control and REST APIs**.
 
@@ -84,4 +84,4 @@ Technologies:
 - Docker
 
 ---
-⭐ Always open to learning new technologies and collaborating on interesting projects.
+Always open to learning new technologies and collaborating on interesting projects.
